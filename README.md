@@ -1,10 +1,10 @@
-## Hello and welcome to my GitHub!
+### Hello and welcome to my GitHub!
 
 I'm 17 years old and I live in Finland.
 
 I'm currently studying programming in Gradia Jyväskylä. I know C# and a bit of Python.
 
-#### Contact me:
+#### Contact me
 - Email: [oskari.makela@hotmail.com](mailto:oskari.makela@hotmail.com)
 
 <!--
