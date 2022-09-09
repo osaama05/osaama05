@@ -1,8 +1,8 @@
-### Hello and welcome to my GitHub!
+### Hello and welcome to my GitHub👋
 
-I'm 17 years old and I live in Finland.
+I'm a 17 year old programmer from Finland. 
 
-I'm currently studying programming in Gradia Jyväskylä. I know C# and a bit of Python.
+Currently, I'm studying programming in Gradia Jyväskylä. So far, I have learned C# and a bit of Python.
 
 #### Contact me
 - Email: [oskari.makela@hotmail.com](mailto:oskari.makela@hotmail.com)
@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=osaama05&show_icons=true&theme=merko&count_private=true"/>
 -->
