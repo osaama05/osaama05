@@ -1,10 +1,13 @@
 ### Hello and welcome to my GitHub!
 
 I'm 17 years old and I live in Finland.
+
 I'm currently studying programming in Gradia Jyväskylä. I know C# and a bit of Python.
 
+
 Contact me:
-E-mail oskari.makela@hotmail.com
+
+E-mail: oskari.makela@hotmail.com
 
 <!--
 **osaama05/osaama05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
