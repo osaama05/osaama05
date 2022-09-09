@@ -4,8 +4,7 @@ I'm 17 years old and I live in Finland.
 
 I'm currently studying programming in Gradia Jyväskylä. I know C# and a bit of Python.
 
-
-Contact me:
+## Contact me:
 
 E-mail: oskari.makela@hotmail.com
 
