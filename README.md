@@ -1,6 +1,6 @@
 ### Hello and welcome to my GitHub👋
 
-I'm a 17 year old programmer from Finland. 
+I'm a 17 year old programmer from <img src="https://cdn-icons-png.flaticon.com/512/323/323359.png" width="13"/> Finland. 
 
 Currently, I'm studying programming in Gradia Jyväskylä. So far, I have learned C# and a bit of Python.
 
