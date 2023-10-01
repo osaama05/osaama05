@@ -4,7 +4,7 @@ I'm a 18 year old programmer from <img src="https://cdn-icons-png.flaticon.com/5
 
 Currently, I'm studying programming in Gradia Jyväskylä. So far, I have learned C# and a bit of Python.
 
-#### Contact me
+### Contact me
 - Email: [oskari.makela@hotmail.com](mailto:oskari.makela@hotmail.com)
 
 ___
