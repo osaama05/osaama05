@@ -1,31 +1,28 @@
-### Hello and welcome to my GitHub👋
-
-I'm a 19 year old programmer from <img src="https://cdn-icons-png.flaticon.com/512/323/323359.png" width="13"/> Finland. 
-
-I'm a recent software developer graduate from Gradia Jyväskylä. I have experience with C#, Python and MySQL.
-
-### Contact me
-- Email: [oskari.makela@hotmail.com](mailto:oskari.makela@hotmail.com)
-
-___
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osaama05&show_icons=true&theme=merko&count_private=true" alt="My Github stats" />
-</p>
+# 💫 About Me:
+I'm a 19 year old programmer from Finland.
 
 
-<!--
-**osaama05/osaama05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oskari-mäkelä-130bb1252) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/osaama05) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0saama5) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=osaama05&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=osaama05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=osaama05&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=osaama05&show_icons=true&theme=merko&count_private=true"/>
-CV (In Finnish): [Link](https://1drv.ms/w/s!AqHKAqSBvEnSgqcCSdCa1hPPCQ-ODQ?e=RAAAPr)
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=osaama05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=osaama05&icon=5&color=12)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/0saama) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
