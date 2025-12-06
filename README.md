@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 19 year old programmer from Finland.
+I'm a young programmer from Finland.
 
 
 ## 🌐 Socials:
