@@ -1,6 +1,18 @@
 # 💫 About Me:
-I'm a young programmer from Finland.
+ICT Student at JAMK University of Applied Sciences | C#, JavaScript, Python, SQL | Tech Enthusiast
 
+Software Developer | ICT Engineering Student at JAMK
+
+I am a solution-oriented Software Developer and future ICT Engineer with a passion for building functional, user-centric applications. In January 2026, I started pursuing my Bachelor of Engineering at JAMK University of Applied Sciences.
+
+My technical background is built on a foundation of practical projects and a dual qualification (vocational and high school) from Gradia. I thrive in solving complex problems and staying calm in stressful situations.
+
+Key Technical Experience:
+- Web Development: Developed a syntax-generating web tool for Gradia to automate the creation of Moodle exam questions.
+- Full-Stack Projects: Updated company websites and built a reservation calendar system for EXEN Esports.
+- Digital Support: Served as a Digital Tutor, providing technical guidance and troubleshooting for users.
+
+Beyond coding, I bring strong leadership and teamwork skills gained through my Non-Commissioned Officer (NCO) training in the Finnish Defence Forces and my long-term involvement as a youth leader and scout group leader. I am a proactive learner who enjoys mastering new things — especially exploring fresh technologies and deep-diving into technical challenges.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oskari-mäkelä-130bb1252) 
