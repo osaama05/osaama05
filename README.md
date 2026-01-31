@@ -15,7 +15,7 @@ Key Technical Experience:
 Beyond coding, I bring strong leadership and teamwork skills gained through my Non-Commissioned Officer (NCO) training in the Finnish Defence Forces and my long-term involvement as a youth leader and scout group leader. I am a proactive learner who enjoys mastering new things — especially exploring fresh technologies and deep-diving into technical challenges.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oskari-mäkelä-130bb1252) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oskari-mäkelä-130bb1252) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oskari.makela@proton.me)  
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
